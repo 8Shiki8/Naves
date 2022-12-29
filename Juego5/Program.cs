@@ -12,12 +12,12 @@ namespace Juego5
         static void Main(string[] args)
         {
 
-<<<<<<<<< Temporary merge branch 1
+
             //COMENTARIO 1 MASTER 
             //comentario 2 master
             
             //Comentario 3 rama1
->>>>>>>>> Temporary merge branch 2
+
             //comentario rama1
             // coemntario 2 rama1
             Console.SetWindowSize(62, 20);
