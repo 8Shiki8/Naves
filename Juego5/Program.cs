@@ -13,6 +13,7 @@ namespace Juego5
         {
 
             //COMENTARIO 1 MASTER 
+            //comentario 2 master
             //comentario rama1
             // coemntario 2 rama1
             Console.SetWindowSize(62, 20);
