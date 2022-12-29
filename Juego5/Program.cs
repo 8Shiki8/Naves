@@ -29,6 +29,7 @@ namespace Juego5
             //comentario 7 rama1
             // comentario 3 master
             //Comentario master 4
+            //comentario master 5
             Console.SetWindowSize(62, 20);
             Console.SetBufferSize(62, 20);
             Console.CursorVisible = false;
