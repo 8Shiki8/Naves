@@ -16,6 +16,7 @@ namespace Juego5
             //Comentario 3 rama1
             //comentario rama1
             // coemntario 2 rama1
+            
             Console.SetWindowSize(62, 20);
             Console.SetBufferSize(62, 20);
             Console.CursorVisible = false;
