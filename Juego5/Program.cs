@@ -11,6 +11,8 @@ namespace Juego5
         public static ConsoleKeyInfo tecla2;
         static void Main(string[] args)
         {
+
+            //COMENTARIO 1 MASTER 
             Console.SetWindowSize(62, 20);
             Console.SetBufferSize(62, 20);
             Console.CursorVisible = false;
