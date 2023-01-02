@@ -12,21 +12,6 @@ namespace Juego5
         static void Main(string[] args)
         {
 
-
-            //COMENTARIO 1 MASTER 
-            //comentario 2 master
-            
-            //Comentario 3 rama1
-
-            //comentario rama1
-            // coemntario 2 rama1
-
-            //comentario 5 rama1
-
-            //comentario 4 rama1
-
-            //comentario 6 rama1**
-            //comentario 7 rama1
             Console.SetWindowSize(62, 20);
             Console.SetBufferSize(62, 20);
             Console.CursorVisible = false;
